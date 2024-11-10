@@ -1,0 +1,9 @@
+[server]
+bind_address = ":8080"
+
+[database]
+uri = "mongodb://localhost:27017"
+name = "dev"
+
+[shorten]
+length = 5
